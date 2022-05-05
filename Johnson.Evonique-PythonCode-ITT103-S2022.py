@@ -1,13 +1,3 @@
-
-
-# Author: Evonique Johnson
-# Date Created: April 2, 2022
-# Course: ITT103
-# Purpose: This program is to calculate the commission rate of a number of workers at JamEx Limited.
-
-
-
-
 sales = input('')
 sales_class = input('')
 
